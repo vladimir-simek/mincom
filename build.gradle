@@ -9,8 +9,8 @@ javafx {
     modules = ['javafx.controls', 'javafx.fxml']
 }
 
-group 'org.example'
-version '1.0-SNAPSHOT'
+group 'com.vladimirsimek.mincom'
+version '0.0-alpha'
 
 repositories {
     mavenCentral()
