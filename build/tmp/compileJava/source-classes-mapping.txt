@@ -6,3 +6,7 @@ com/vladimirsimek/mincom/Main.java
  com.vladimirsimek.mincom.Main
 com/vladimirsimek/mincom/logic/cont/SplashCont.java
  com.vladimirsimek.mincom.logic.cont.SplashCont
+com/vladimirsimek/mincom/logic/cont/MenuBarCont.java
+ com.vladimirsimek.mincom.logic.cont.MenuBarCont
+com/vladimirsimek/mincom/logic/cont/MainMenuCont.java
+ com.vladimirsimek.mincom.logic.cont.MainMenuCont
