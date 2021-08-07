@@ -1,8 +1,8 @@
-com/vladimirsimek/mincom/Main.java
- com.vladimirsimek.mincom.Main
+com/vladimirsimek/mincom/logic/StageManager.java
+ com.vladimirsimek.mincom.logic.StageManager
 com/vladimirsimek/mincom/gui/Window.java
  com.vladimirsimek.mincom.gui.Window
-com/vladimirsimek/mincom/logic/StageInit.java
- com.vladimirsimek.mincom.logic.StageInit
+com/vladimirsimek/mincom/Main.java
+ com.vladimirsimek.mincom.Main
 com/vladimirsimek/mincom/logic/cont/SplashCont.java
  com.vladimirsimek.mincom.logic.cont.SplashCont

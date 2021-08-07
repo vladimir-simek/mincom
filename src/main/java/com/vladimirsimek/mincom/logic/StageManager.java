@@ -8,25 +8,22 @@ import javafx.stage.Stage;
 import java.io.IOException;
 import java.util.Objects;
 
-public class StageInit {
+public class StageManager {
     private final Scene scene;
     private final Stage stage;
     private final boolean isResizable;
-    private final boolean shouldShow;
 
-    public StageInit(String root, int sceneWidth, int sceneHeight, Stage stage, boolean isResizable, boolean shouldShow) throws IOException {
+    public StageManager(String root, int sceneWidth, int sceneHeight, Stage stage, boolean isResizable) throws IOException {
         Parent root1 = FXMLLoader.load(Objects.requireNonNull(getClass().getResource(root)));
         this.scene = new Scene(root1, sceneWidth, sceneHeight);
         this.stage = stage;
         this.isResizable = isResizable;
-        this.shouldShow = shouldShow;
     }
 
     public void createScene() {
         stage.setScene(scene);
         stage.setResizable(isResizable);
-        if (shouldShow) {
-            stage.show();
-        }
+        stage.show();
+
     }
 }
