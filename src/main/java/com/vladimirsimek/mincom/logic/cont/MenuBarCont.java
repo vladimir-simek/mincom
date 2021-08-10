@@ -1,24 +1,22 @@
 package com.vladimirsimek.mincom.logic.cont;
 
 import javafx.application.Platform;
-import javafx.stage.Stage;
-import javafx.scene.control.MenuItem;
 
 public class MenuBarCont {
 
-    public void createPresentation() {
+    public static void createPresentation() {
     }
 
-    public void openPresentation() {
+    public static void openPresentation() {
     }
 
-    public void closePresentation() {
+    public static void closePresentation() {
     }
 
-    public void savePresentation() {
+    public static void savePresentation() {
     }
 
-    public void openSettings() {
+    public static void openSettings() {
     }
 
     public static void quitMincom() {
@@ -26,9 +24,9 @@ public class MenuBarCont {
         System.exit(0);
     }
 
-    public void openMincomWebsite() {
+    public static void openMincomWebsite() {
     }
 
-    public void openMincomGithub() {
+    public static void openMincomGithub() {
     }
 }
