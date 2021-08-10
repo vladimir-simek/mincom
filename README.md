@@ -2,7 +2,7 @@
 Written by Vladimír Šimek
 
 Introduction
-Mincom is an open-source random image displayer, that people can use on their computers (Linux, Windows, MacOS) to create presentations of their photo albums in random order.
+Mincom is an open-source random image displayer, that people can use on their computers (Linux, Windows, MacOS)<br/>to create presentations of their photo albums in random order.
 
 Goal questions<br/>
     &emsp;1) What will be the app’s key functionality?<br/>
@@ -16,6 +16,7 @@ Functions<br/>
     &emsp;1) Image presentations<br/>
         &emsp;&emsp;1) Crating, saving and opening presentations<br/>
         &emsp;&emsp;2) Different presentation options<br/>
-           &emsp;&emsp;&emsp;• Time before the next image is shown, multiple directories in one presentation, excluding directories from superior directory, etc.<br/>
+           &emsp;&emsp;&emsp;• Time before the next image is shown, multiple directories in one presentation, 
+           <br/>&emsp;&emsp;&emsp;excluding directories from superior directory, etc.<br/>
     &emsp;2) Single random image<br/>
     &emsp;3) Support for user created themes<br/>
