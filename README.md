@@ -14,7 +14,7 @@ Goal questions<br/>
 
 Functions<br/>
     &emsp;1) Image presentations<br/>
-        &emsp;&emsp;1) Crating, saving and opening presentations<br/>
+        &emsp;&emsp;1) Creating, saving and opening presentations<br/>
         &emsp;&emsp;2) Different presentation options<br/>
            &emsp;&emsp;&emsp;• Time before the next image is shown, multiple directories in one presentation, 
            <br/>&emsp;&emsp;&emsp;excluding directories from superior directory, etc.<br/>
